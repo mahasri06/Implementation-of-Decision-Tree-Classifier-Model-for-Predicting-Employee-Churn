@@ -94,12 +94,12 @@ x.head:
 
 Accuracy Value:
 
-![image](https://github.com/Sajetha13/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/138849316/74c7e7ba-b07c-4c1f-b9cb-ee0810dae164)
+![image](https://github.com/Sajetha13/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/138849316/31074d56-b702-4696-8373-44d982ca1d40)
 
 
 Data Prediction:
 
-![image](https://github.com/Sajetha13/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/138849316/a43f66b3-aeb8-41f7-8cfa-8c9524fa95d8)
+![image](https://github.com/Sajetha13/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/138849316/f3d4c1ef-123c-4c1e-bd27-9bae684e013c)
 
 
 
